@@ -1,6 +1,9 @@
 {
-	"name": "@chenzl/utils",
+	"name": "@chenzeliang/utils",
 	"version": "0.1.0",
+	"publishConfig": {
+		"access": "public"
+	},
 	"description": "some common utils",
 	"main": "index.js",
 	"module": "dist/utils.js",
@@ -10,7 +13,7 @@
 		"dist"
 	],
 	"buildOptions": {
-		"name": "@chenzl/utils"
+		"name": "@chenzeliang/utils"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

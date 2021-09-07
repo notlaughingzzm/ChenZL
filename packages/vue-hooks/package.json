@@ -1,6 +1,9 @@
 {
-	"name": "@chenzl/vue-hooks",
+	"name": "@chenzeliang/vue-hooks",
 	"version": "0.1.1",
+	"publishConfig": {
+		"access": "public"
+	},
 	"description": "some vue3 hooks",
 	"main": "index.js",
 	"module": "dist/vue-hooks.js",
@@ -10,7 +13,7 @@
 		"dist"
 	],
 	"buildOptions": {
-		"name": "@chenzl/vue-hooks"
+		"name": "@chenzeliang/vue-hooks"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

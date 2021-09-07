@@ -1,6 +1,9 @@
 {
 	"name": "@chenzeliang/storage",
 	"version": "0.1.6",
+	"publishConfig": {
+		"access": "public"
+	},
 	"description": "storage",
 	"main": "index.js",
 	"module": "dist/storage.js",
