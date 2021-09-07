@@ -2,7 +2,7 @@
 
 import Cookie from 'js-cookie'
 
-import { JsonParse, JsonStringify } from '@ChenZL/utils'
+import { JsonParse, JsonStringify } from '@chenzl/utils'
 
 /** @public */
 export type StorageType = 'localStorage' | 'sessionStorage'

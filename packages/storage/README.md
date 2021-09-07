@@ -5,15 +5,15 @@ seeing the name of a thing one thinks of its function o(´^｀)o
 
 ```bash
 # if you use npm
-npm install @ChenZL/storage --save-dev
+npm install @chenzl/storage --save-dev
 # or if you use yarn
-yarn add @ChenZL/storage
+yarn add @chenzl/storage
 ```
 
 ### Get Start
 
 ```js
-import storage from '@ChenZL/storage'
+import storage from '@chenzl/storage'
 
 storage.local.set('name', 'your value')
 

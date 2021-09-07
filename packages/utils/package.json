@@ -1,5 +1,5 @@
 {
-	"name": "@ChenZL/utils",
+	"name": "@chenzl/utils",
 	"version": "0.1.0",
 	"description": "some common utils",
 	"main": "index.js",
@@ -10,7 +10,7 @@
 		"dist"
 	],
 	"buildOptions": {
-		"name": "@ChenZL/utils"
+		"name": "@chenzl/utils"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

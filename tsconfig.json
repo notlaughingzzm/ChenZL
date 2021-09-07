@@ -18,10 +18,10 @@
       "types": ["node"],
       "rootDir": ".",
       "paths": {
-        "@ChenZL/utils": ["packages/utils/src"],
-        "@ChenZL/storage": ["packages/storage/src"],
-        "@ChenZL/vue-hooks": ["packages/vue-hooks/src"],
-        "@ChenZL/*": ["packages/*/src"]
+        "@chenzl/utils": ["packages/utils/src"],
+        "@chenzl/storage": ["packages/storage/src"],
+        "@chenzl/vue-hooks": ["packages/vue-hooks/src"],
+        "@chenzl/*": ["packages/*/src"]
       },
     },
     "include": [

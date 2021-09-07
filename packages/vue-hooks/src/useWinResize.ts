@@ -1,5 +1,5 @@
 import { watchEffect } from 'vue'
-import { debounce, ownAddEventListener } from '@ChenZL/utils'
+import { debounce, ownAddEventListener } from '@chenzl/utils'
 
 /**
  * when window seize change, call the fn
