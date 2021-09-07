@@ -1,0 +1,26 @@
+{
+	"name": "@ChenZL/utils",
+	"version": "0.1.0",
+	"description": "some common utils",
+	"main": "index.js",
+	"module": "dist/utils.js",
+	"typings": "dist/utils.d.ts",
+	"files": [
+		"index.js",
+		"dist"
+	],
+	"buildOptions": {
+		"name": "@ChenZL/utils"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/notlaughingzzm/ChenZL.git",
+		"directory": "packages/utils"
+	},
+	"homepage": "https://github.com/notlaughingzzm/ChenZL/tree/master/packages/utils#readme",
+	"author": "czl",
+	"license": "MIT"
+}

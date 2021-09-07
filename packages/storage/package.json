@@ -1,0 +1,32 @@
+{
+	"name": "@ChenZL/storage",
+	"version": "0.1.6",
+	"description": "storage",
+	"main": "index.js",
+	"module": "dist/storage.js",
+	"typings": "dist/storage.d.ts",
+	"files": [
+		"index.js",
+		"dist"
+	],
+	"buildOptions": {
+		"name": "@ChenZL/storage"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/notlaughingzzm/ChenZL.git",
+		"directory": "packages/storage"
+	},
+	"homepage": "https://github.com/notlaughingzzm/ChenZL/tree/master/packages/storage#readme",
+	"author": "czl",
+	"license": "MIT",
+	"dependencies": {
+		"js-cookie": "^2.2.1"
+	},
+	"devDependencies": {
+		"@types/js-cookie": "^2.2.6"
+	}
+}
