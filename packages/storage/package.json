@@ -1,5 +1,5 @@
 {
-	"name": "@chenzl/storage",
+	"name": "@chenzl/storages",
 	"version": "0.1.6",
 	"description": "storage",
 	"main": "index.js",
@@ -10,7 +10,7 @@
 		"dist"
 	],
 	"buildOptions": {
-		"name": "@chenzl/storage"
+		"name": "@chenzl/storages"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
